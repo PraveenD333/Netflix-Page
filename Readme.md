@@ -5,7 +5,6 @@ The goal of this project is to replicate the layout, style, and interactive  of 
 
 Features
 Responsive Design: The homepage is fully responsive and adapts to different screen sizes, including desktops, tablets, and mobile devices.
-Dynamic Hero Section: The main banner dynamically displays a featured movie or TV show with a large background image and associated text.
 Navigation Bar: A fixed navigation bar that includes logo, menu items, and user profile settings.
 Movie/TV Show Grid: A scrolling grid of various movie/TV show thumbnails that users can browse through.
 Hover Effects: Interactive hover effects on movie posters, revealing additional information or options (e.g., play trailer, add to My List).
