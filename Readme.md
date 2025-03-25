@@ -13,3 +13,4 @@ mooth Scrolling: Seamless scrolling and interactive elements to provide a Netfli
 Tech Stack
 HTML5: Structure of the web page.
 CSS3: Styling and layout of the homepage.
+# Netflix-Page
